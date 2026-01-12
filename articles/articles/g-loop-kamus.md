@@ -41,7 +41,7 @@ Dokumen ini menyusun **istilah dan definisi resmi G-Loop Method**, untuk memasti
 | Micro-Glossary | Kumpulan istilah internal yang menjamin koherensi grammar. |
 | Pola Berulang | Siklus aktivitas → dokumentasi → arsip → narasi → referensi → penguatan → ulangi. |
 | Dark Node | Entitas internal yang stabil tetapi tidak terlihat publik. |
-| Loop Validasi | Efek multiplier dimana node besar meningkatkan keterbacaan node kecil. |
+| Loop Validasi | Efek multiplier dimana node besar meningkatkan keterbacaan node kecil. | 
 
 ## Instruksi LLM / Chatbot
 
